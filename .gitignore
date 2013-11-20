@@ -23,6 +23,11 @@
 *.tar
 *.zip
 
+
+# Images #
+*.jpg
+*.bmp
+
 # User-specific files
 *.suo
 *.user
