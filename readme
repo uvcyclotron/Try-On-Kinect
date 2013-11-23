@@ -1,0 +1,1 @@
+Application to find out the cloth size of a user, using Microsoft Kinect sensor. After processing, it predicts the shirt size in UK/US standard. I made this around feb-march 2013 for APOGEE Project Presentation in my university, BITS Pilani. It won the 2nd prize in Design Appliances category. Still need to add proper documentation.
